@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/Components/Pages/Chat/ChatInput.razor.js",
+      "PackagePath": "staticwebassets/Components/Pages/Chat/ChatInput.razor.js"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/Components/Pages/Chat/ChatMessageList.razor.js",
+      "PackagePath": "staticwebassets/Components/Pages/Chat/ChatMessageList.razor.js"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/obj/Debug/net9.0/scopedcss/projectbundle/ChatApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/ChatApp.uglmqj655v.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/Example_Emergency_Survival_Kit.pdf",
+      "PackagePath": "staticwebassets/Data/Example_Emergency_Survival_Kit.pdf"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/Example_GPS_Watch.pdf",
+      "PackagePath": "staticwebassets/Data/Example_GPS_Watch.pdf"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/app.js",
+      "PackagePath": "staticwebassets/app.js"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/dompurify/README.md",
+      "PackagePath": "staticwebassets/lib/dompurify/README.md"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/dompurify/dist/purify.es.mjs",
+      "PackagePath": "staticwebassets/lib/dompurify/dist/purify.es.mjs"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/marked/README.md",
+      "PackagePath": "staticwebassets/lib/marked/README.md"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/marked/dist/marked.esm.js",
+      "PackagePath": "staticwebassets/lib/marked/dist/marked.esm.js"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/pdf_viewer/viewer.html",
+      "PackagePath": "staticwebassets/lib/pdf_viewer/viewer.html"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/pdf_viewer/viewer.mjs",
+      "PackagePath": "staticwebassets/lib/pdf_viewer/viewer.mjs"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/pdfjs-dist/README.md",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/README.md"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/pdfjs-dist/dist/build/pdf.min.mjs",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/build/pdf.min.mjs"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/pdfjs-dist/dist/build/pdf.worker.min.mjs",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/build/pdf.worker.min.mjs"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/pdfjs-dist/dist/web/images/loading-icon.gif",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/web/images/loading-icon.gif"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/pdfjs-dist/dist/web/pdf_viewer.css",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/web/pdf_viewer.css"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/pdfjs-dist/dist/web/pdf_viewer.mjs",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/web/pdf_viewer.mjs"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/tailwindcss/README.md",
+      "PackagePath": "staticwebassets/lib/tailwindcss/README.md"
+    },
+    {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/lib/tailwindcss/dist/preflight.css",
+      "PackagePath": "staticwebassets/lib/tailwindcss/dist/preflight.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ChatApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ChatApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.ChatApp.props",
+      "PackagePath": "build\\ChatApp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ChatApp.props",
+      "PackagePath": "buildMultiTargeting\\ChatApp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ChatApp.props",
+      "PackagePath": "buildTransitive\\ChatApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
