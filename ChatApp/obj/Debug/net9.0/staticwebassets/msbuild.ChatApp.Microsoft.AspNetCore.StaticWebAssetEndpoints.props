@@ -48,6 +48,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PRE7aEim8KhCeE3OjBV7d5syWBE/0kbJ6VaLYRAqclU="},{"Name":"script-type","Value":"module"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19198"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PRE7aEim8KhCeE3OjBV7d5syWBE/0kbJ6VaLYRAqclU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 21:50:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ChatApp/Data/DeveloperQuestion.fhw4dhtu6p.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\DeveloperQuestion.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fhw4dhtu6p"},{"Name":"integrity","Value":"sha256-jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ="},{"Name":"label","Value":"_content/ChatApp/Data/DeveloperQuestion.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"394224"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 14:30:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ChatApp/Data/DeveloperQuestion.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\DeveloperQuestion.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"394224"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 14:30:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ChatApp/Data/Example_Emergency_Survival_Kit.76gapf3vwc.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\Example_Emergency_Survival_Kit.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

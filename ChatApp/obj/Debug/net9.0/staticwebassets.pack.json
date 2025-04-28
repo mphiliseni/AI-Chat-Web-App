@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/ChatApp.uglmqj655v.bundle.scp.css"
     },
     {
+      "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/DeveloperQuestion.pdf",
+      "PackagePath": "staticwebassets/Data/DeveloperQuestion.pdf"
+    },
+    {
       "Id": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/Example_Emergency_Survival_Kit.pdf",
       "PackagePath": "staticwebassets/Data/Example_Emergency_Survival_Kit.pdf"
     },

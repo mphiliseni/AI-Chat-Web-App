@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FKgaCcgZ0Wlw2k/0LFGaAe6hr6UHo1Sq8Hk4P+sCOvs=",
+  "Hash": "BXIUB8XSrn4zd7MUZa6lA6csDysrqadb1WqlDImPZww=",
   "Source": "ChatApp",
   "BasePath": "_content/ChatApp",
   "Mode": "Default",
@@ -561,6 +561,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/app.js"
+    },
+    {
+      "Identity": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/DeveloperQuestion.pdf",
+      "SourceId": "ChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/",
+      "BasePath": "_content/ChatApp",
+      "RelativePath": "Data/DeveloperQuestion#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhw4dhtu6p",
+      "Integrity": "jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Data/DeveloperQuestion.pdf"
     },
     {
       "Identity": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/Example_Emergency_Survival_Kit.pdf",
@@ -2400,6 +2421,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-/+plQbuTWwNr6SRKgjzSGQpRwT7a8TjQBqr7FusbS5Q="
+        }
+      ]
+    },
+    {
+      "Route": "Data/DeveloperQuestion.fhw4dhtu6p.pdf",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/DeveloperQuestion.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 14:30:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhw4dhtu6p"
+        },
+        {
+          "Name": "label",
+          "Value": "Data/DeveloperQuestion.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ="
+        }
+      ]
+    },
+    {
+      "Route": "Data/DeveloperQuestion.pdf",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/DeveloperQuestion.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 14:30:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ="
         }
       ]
     },

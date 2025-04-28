@@ -591,6 +591,88 @@
       ]
     },
     {
+      "Route": "Data/DeveloperQuestion.fhw4dhtu6p.pdf",
+      "AssetFile": "Data/DeveloperQuestion.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 14:30:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhw4dhtu6p"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Data/DeveloperQuestion.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Data/DeveloperQuestion.pdf",
+      "AssetFile": "Data/DeveloperQuestion.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "394224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 14:30:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jSHgARkHUSLcOPC9VANW5WmA1QNVCDMBpuTz5pQAPCQ="
+        }
+      ]
+    },
+    {
       "Route": "Data/Example_Emergency_Survival_Kit.76gapf3vwc.pdf",
       "AssetFile": "Data/Example_Emergency_Survival_Kit.pdf",
       "Selectors": [],
