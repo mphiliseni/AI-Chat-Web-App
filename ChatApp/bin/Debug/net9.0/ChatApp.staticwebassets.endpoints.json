@@ -591,6 +591,88 @@
       ]
     },
     {
+      "Route": "Data/CheatSheet.mlagx7h065.pdf",
+      "AssetFile": "Data/CheatSheet.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3402688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 16:19:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlagx7h065"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Data/CheatSheet.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Data/CheatSheet.pdf",
+      "AssetFile": "Data/CheatSheet.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3402688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 16:19:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ="
+        }
+      ]
+    },
+    {
       "Route": "Data/DeveloperQuestion.fhw4dhtu6p.pdf",
       "AssetFile": "Data/DeveloperQuestion.pdf",
       "Selectors": [],
@@ -751,88 +833,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-X7XOszv7V+wqZI3CQtYUzC27zA7FAcEvfYob+AnTg5I="
-        }
-      ]
-    },
-    {
-      "Route": "Data/Example_GPS_Watch.pdf",
-      "AssetFile": "Data/Example_GPS_Watch.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117692"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 21:50:55 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU="
-        }
-      ]
-    },
-    {
-      "Route": "Data/Example_GPS_Watch.rcz4tl65sx.pdf",
-      "AssetFile": "Data/Example_GPS_Watch.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117692"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 21:50:55 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rcz4tl65sx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU="
-        },
-        {
-          "Name": "label",
-          "Value": "Data/Example_GPS_Watch.pdf"
         }
       ]
     },

@@ -48,6 +48,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PRE7aEim8KhCeE3OjBV7d5syWBE/0kbJ6VaLYRAqclU="},{"Name":"script-type","Value":"module"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19198"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PRE7aEim8KhCeE3OjBV7d5syWBE/0kbJ6VaLYRAqclU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 21:50:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ChatApp/Data/CheatSheet.mlagx7h065.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\CheatSheet.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mlagx7h065"},{"Name":"integrity","Value":"sha256-quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ="},{"Name":"label","Value":"_content/ChatApp/Data/CheatSheet.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3402688"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 16:19:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ChatApp/Data/CheatSheet.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\CheatSheet.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3402688"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 May 2025 16:19:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ChatApp/Data/DeveloperQuestion.fhw4dhtu6p.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\DeveloperQuestion.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -71,18 +83,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X7XOszv7V\u002BwqZI3CQtYUzC27zA7FAcEvfYob\u002BAnTg5I="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"153539"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022X7XOszv7V\u002BwqZI3CQtYUzC27zA7FAcEvfYob\u002BAnTg5I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 21:50:55 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ChatApp/Data/Example_GPS_Watch.pdf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\Example_GPS_Watch.pdf'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BSME9d/vHyH\u002BHBQrIrXUdIfLJz4pf9KwkSxQWroQNjU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"117692"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022BSME9d/vHyH\u002BHBQrIrXUdIfLJz4pf9KwkSxQWroQNjU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 21:50:55 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ChatApp/Data/Example_GPS_Watch.rcz4tl65sx.pdf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\Example_GPS_Watch.pdf'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rcz4tl65sx"},{"Name":"integrity","Value":"sha256-BSME9d/vHyH\u002BHBQrIrXUdIfLJz4pf9KwkSxQWroQNjU="},{"Name":"label","Value":"_content/ChatApp/Data/Example_GPS_Watch.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117692"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022BSME9d/vHyH\u002BHBQrIrXUdIfLJz4pf9KwkSxQWroQNjU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 21:50:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ChatApp/favicon.dv5t0lo4q1.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

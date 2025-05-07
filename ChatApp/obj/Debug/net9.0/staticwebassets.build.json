@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BXIUB8XSrn4zd7MUZa6lA6csDysrqadb1WqlDImPZww=",
+  "Hash": "ZqoAZWRlU5aPO45ySj4isM7xcwHTUD/f72qVoiPLEvw=",
   "Source": "ChatApp",
   "BasePath": "_content/ChatApp",
   "Mode": "Default",
@@ -563,6 +563,27 @@
       "OriginalItemSpec": "wwwroot/app.js"
     },
     {
+      "Identity": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/CheatSheet.pdf",
+      "SourceId": "ChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/",
+      "BasePath": "_content/ChatApp",
+      "RelativePath": "Data/CheatSheet#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlagx7h065",
+      "Integrity": "quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Data/CheatSheet.pdf"
+    },
+    {
       "Identity": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/DeveloperQuestion.pdf",
       "SourceId": "ChatApp",
       "SourceType": "Discovered",
@@ -603,27 +624,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Data/Example_Emergency_Survival_Kit.pdf"
-    },
-    {
-      "Identity": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/Example_GPS_Watch.pdf",
-      "SourceId": "ChatApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/",
-      "BasePath": "_content/ChatApp",
-      "RelativePath": "Data/Example_GPS_Watch#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "rcz4tl65sx",
-      "Integrity": "BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Data/Example_GPS_Watch.pdf"
     },
     {
       "Identity": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/favicon.ico",
@@ -2425,6 +2425,88 @@
       ]
     },
     {
+      "Route": "Data/CheatSheet.mlagx7h065.pdf",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/CheatSheet.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3402688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 16:19:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlagx7h065"
+        },
+        {
+          "Name": "label",
+          "Value": "Data/CheatSheet.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ="
+        }
+      ]
+    },
+    {
+      "Route": "Data/CheatSheet.pdf",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/CheatSheet.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3402688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 16:19:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-quadN1E9a1B0AoNA3WsQOKh3Iu5AcBI38NPkDmCBGpQ="
+        }
+      ]
+    },
+    {
       "Route": "Data/DeveloperQuestion.fhw4dhtu6p.pdf",
       "AssetFile": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/DeveloperQuestion.pdf",
       "Selectors": [],
@@ -2585,88 +2667,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-X7XOszv7V+wqZI3CQtYUzC27zA7FAcEvfYob+AnTg5I="
-        }
-      ]
-    },
-    {
-      "Route": "Data/Example_GPS_Watch.pdf",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/Example_GPS_Watch.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117692"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 21:50:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU="
-        }
-      ]
-    },
-    {
-      "Route": "Data/Example_GPS_Watch.rcz4tl65sx.pdf",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/AI-Chat-Web-App/ChatApp/wwwroot/Data/Example_GPS_Watch.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117692"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Apr 2025 21:50:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rcz4tl65sx"
-        },
-        {
-          "Name": "label",
-          "Value": "Data/Example_GPS_Watch.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BSME9d/vHyH+HBQrIrXUdIfLJz4pf9KwkSxQWroQNjU="
         }
       ]
     },
